@@ -1,2 +1,2 @@
 const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render( <h1> Hello, world! First code react </h1>);
+root.render( <h1><b> First code react </b></h1>);
